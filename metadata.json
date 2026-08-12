@@ -1,0 +1,6 @@
+{
+  "name": "Roses & Cash - Ghana Money & Flower Bouquets",
+  "description": "Bespoke flower bouquets, luxury Ghana Cedi money arrangements, custom order builder, and instant price calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
